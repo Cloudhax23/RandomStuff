@@ -1,0 +1,7 @@
+C:\Users\Qadeem\Documents\Visual Studio 2017\Projects\ShudUp\ShudUp\bin\Debug\ShudUp.exe.config
+C:\Users\Qadeem\Documents\Visual Studio 2017\Projects\ShudUp\ShudUp\bin\Debug\ShudUp.exe
+C:\Users\Qadeem\Documents\Visual Studio 2017\Projects\ShudUp\ShudUp\bin\Debug\ShudUp.pdb
+C:\Users\Qadeem\Documents\Visual Studio 2017\Projects\ShudUp\ShudUp\obj\Debug\ShudUp.csprojResolveAssemblyReference.cache
+C:\Users\Qadeem\Documents\Visual Studio 2017\Projects\ShudUp\ShudUp\obj\Debug\ShudUp.csproj.CoreCompileInputs.cache
+C:\Users\Qadeem\Documents\Visual Studio 2017\Projects\ShudUp\ShudUp\obj\Debug\ShudUp.exe
+C:\Users\Qadeem\Documents\Visual Studio 2017\Projects\ShudUp\ShudUp\obj\Debug\ShudUp.pdb
